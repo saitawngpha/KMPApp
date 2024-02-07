@@ -6,8 +6,8 @@ Android and iOS app with Kotlin Multiplatform.
 - Kotlinx Serialization
 
 ## iOS App dependencies
-- Swiftui
-- Shared
+- SwiftUI
+- Shared data
 
 ## Demo
    iOS Screen | Android Screen
